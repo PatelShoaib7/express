@@ -7,5 +7,4 @@ router.get("/", async (req, res, next) => {
     message: "The app is working properly!",
   });
 });
-   
 module.exports = router;
